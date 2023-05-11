@@ -1,4 +1,6 @@
+import TaskCard from "../../layouts/task/TaskCard"
+
 const HomePage  = ()=>{
-    return '';
+    return <TaskCard/>;
 }
 export default HomePage;
